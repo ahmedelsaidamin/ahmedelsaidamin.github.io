@@ -93,7 +93,7 @@
         }
       ]
     },
-    ".com1.fakarni.comreminder.fakarni.comreminder.html": {
+    "reminder.com1.fakarni.comreminder.fakarni.comreminder.html": {
       "settings": {
         "meta_descr": "",
         "title": "Reminding Services",
@@ -171,7 +171,7 @@
         }
       ]
     },
-    "page4.html": {
+    "secretary.html": {
       "settings": {
         "meta_descr": "",
         "title": "Secretarial Services",
@@ -249,7 +249,7 @@
         }
       ]
     },
-    "page3.html": {
+    "afterdeath.html": {
       "settings": {
         "meta_descr": "",
         "title": "After Death Services",
@@ -327,7 +327,7 @@
         }
       ]
     },
-    "page5.html": {
+    "resume.html": {
       "settings": {
         "meta_descr": "",
         "title": "Resume Management",
