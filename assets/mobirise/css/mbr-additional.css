@@ -3129,6 +3129,7 @@ body {
 .cid-qJYyLsvX5T .price-value {
   font-weight: 700;
   vertical-align: top;
+  text-align: left;
 }
 @media (max-width: 550px) {
   .cid-qJYyLsvX5T .price-figure {
